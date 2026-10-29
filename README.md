@@ -168,6 +168,10 @@ services:
       - "3210:3210"
 ```
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/WikiDocs/)
+
 
 ## Sync
 
